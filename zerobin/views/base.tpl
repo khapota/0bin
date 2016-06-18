@@ -2,10 +2,10 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>0bin - encrypted pastebin</title>
+    <title>sbin - encrypted and secured pastebin</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
-          content="0bin is a client-side-encrypted
+          content="sbin is a client-side-encrypted
                    pastebin featuring burn after reading, an history and
                    a clipboard">
 
@@ -51,7 +51,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand" href="/"><span>ø</span>bin<em>.net</em></a>
+          <a class="brand" href="/"><span>s</span>bin<em>.vn</em></a>
           <div class="nav-collapse">
             <ul class="nav">
 
